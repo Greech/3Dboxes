@@ -38,6 +38,9 @@ body {
 ol, ul {
 	list-style: none;
 }
+.boxOpen {
+	overflow: hidden;
+}
 blockquote, q {
 	quotes: none;
 }
